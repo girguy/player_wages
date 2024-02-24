@@ -1,0 +1,273 @@
+League;Team;Link;TeamId
+Championship;Leicester City;/team/95/leicester-city/;1
+Championship;Leeds United;/team/8/leeds-united/;2
+Championship;Southampton;/team/17/southampton/;3
+Championship;Norwich City;/team/1792/norwich-city/;4
+Championship;Middlesbrough;/team/12/middlesbrough/;5
+Championship;Hull City;/team/1952/hull-city/;6
+Championship;Stoke City;/team/1806/stoke-city/;7
+Championship;West Bromwich Albion;/team/109/west-bromwich-albion/;8
+Championship;Watford;/team/1795/watford/;9
+Championship;Coventry City;/team/1800/coventry-city/;10
+Championship;Preston North End;/team/1801/preston-north-end/;11
+Championship;Blackburn Rovers;/team/3/blackburn-rovers/;12
+Championship;Cardiff City;/team/1961/cardiff-city/;13
+Championship;Millwall;/team/97/millwall/;14
+Championship;Ipswich Town;/team/94/ipswich-town/;15
+Championship;Queens Park Rangers;/team/15/queens-park-rangers/;16
+Championship;Swansea City;/team/1960/swansea-city/;17
+Championship;Bristol City;/team/1919/bristol-city/;18
+Championship;Birmingham City;/team/88/birmingham-city/;19
+Championship;Sunderland;/team/106/sunderland/;20
+Championship;Sheffield Wednesday;/team/1807/sheffield-wednesday/;21
+Championship;Plymouth Argyle;/team/1929/plymouth-argyle/;22
+Championship;Huddersfield Town;/team/1939/huddersfield-town/;23
+Championship;Rotherham United;/team/1797/rotherham-united/;24
+Ligue 2;Saint-Étienne;/team/1819/saint-etienne/;25
+Ligue 2;Bordeaux;/team/59/bordeaux/;26
+Ligue 2;Angers SCO;/team/1530/angers-sco/;27
+Ligue 2;Auxerre;/team/57/auxerre/;28
+Ligue 2;Paris;/team/111817/paris/;29
+Ligue 2;Amiens SC;/team/1816/amiens-sc/;30
+Ligue 2;Grenoble Foot 38;/team/1805/grenoble-foot-38/;31
+Ligue 2;Ajaccio;/team/614/ajaccio/;32
+Ligue 2;Troyes;/team/294/troyes/;33
+Ligue 2;Caen;/team/210/caen/;34
+Ligue 2;Laval;/team/1814/laval/;35
+Ligue 2;Pau;/team/110321/pau/;36
+Ligue 2;Guingamp;/team/62/guingamp/;37
+Ligue 2;Quevilly Rouen;/team/112552/quevilly-rouen/;38
+Ligue 2;Bastia;/team/58/bastia/;39
+Ligue 2;Rodez;/team/111659/rodez/;40
+Ligue 2;Dunkerque;/team/111276/dunkerque/;41
+Ligue 2;Valenciennes;/team/110456/valenciennes/;42
+Ligue 2;Annecy;/team/115494/annecy/;43
+Ligue 2;Concarneau;/team/113742/concarneau/;44
+Ligue 1;Paris Saint Germain;/team/73/paris-saint-germain/;45
+Ligue 1;Lens;/team/64/lens/;46
+Ligue 1;Olympique de Marseille;/team/219/olympique-de-marseille/;47
+Ligue 1;Monaco;/team/69/monaco/;48
+Ligue 1;Nice;/team/72/nice/;49
+Ligue 1;Rennes;/team/74/rennes/;50
+Ligue 1;LOSC Lille;/team/65/losc-lille/;51
+Ligue 1;Olympique Lyonnais;/team/66/olympique-lyonnais/;52
+Ligue 1;Montpellier;/team/70/montpellier/;53
+Ligue 1;Stade de Reims;/team/379/stade-de-reims/;54
+Ligue 1;Brest;/team/378/brest/;55
+Ligue 1;Nantes;/team/71/nantes/;56
+Ligue 1;Lorient;/team/217/lorient/;57
+Ligue 1;Strasbourg;/team/76/strasbourg/;58
+Ligue 1;Toulouse;/team/1809/toulouse/;59
+Ligue 1;Metz;/team/68/metz/;60
+Ligue 1;Le Havre;/team/1738/le-havre/;61
+Ligue 1;Clermont;/team/1815/clermont/;62
+La Liga 2;Espanyol;/team/452/espanyol/;63
+La Liga 2;Real Valladolid;/team/462/real-valladolid/;64
+La Liga 2;Real Zaragoza;/team/244/real-zaragoza/;65
+La Liga 2;Sporting Gijón;/team/459/sporting-gijon/;66
+La Liga 2;SD Eibar;/team/467/sd-eibar/;67
+La Liga 2;Levante;/team/1853/levante/;68
+La Liga 2;Leganés;/team/100888/leganes/;69
+La Liga 2;Real Oviedo;/team/110827/real-oviedo/;70
+La Liga 2;Burgos;/team/10846/burgos/;71
+La Liga 2;Elche;/team/468/elche/;72
+La Liga 2;Tenerife;/team/260/tenerife/;73
+La Liga 2;Albacete;/team/1854/albacete/;74
+La Liga 2;Huesca;/team/110839/huesca/;75
+La Liga 2;Racing Santander;/team/456/racing-santander/;76
+La Liga 2;Racing Ferrol;/team/110242/racing-ferrol/;77
+La Liga 2;Eldense;/team/131110/eldense/;78
+La Liga 2;FC Cartagena;/team/100851/fc-cartagena/;79
+La Liga 2;Villarreal II;/team/110902/villarreal-ii/;80
+La Liga 2;FC Andorra;/team/114554/fc-andorra/;81
+La Liga 2;Alcorcón;/team/100831/alcorcon/;82
+La Liga 2;Mirandés;/team/110069/mirandes/;83
+La Liga 2;Amorebieta;/team/113356/amorebieta/;84
+Eredivisie;PSV;/team/247/psv/;85
+Eredivisie;Feyenoord;/team/246/feyenoord/;86
+Eredivisie;Ajax;/team/245/ajax/;87
+Eredivisie;FC Twente;/team/1908/fc-twente/;88
+Eredivisie;AZ Alkmaar;/team/1906/az-alkmaar/;89
+Eredivisie;FC Utrecht;/team/1903/fc-utrecht/;90
+Eredivisie;SC Heerenveen;/team/1913/sc-heerenveen/;91
+Eredivisie;NEC;/team/1910/nec/;92
+Eredivisie;Sparta Rotterdam;/team/100646/sparta-rotterdam/;93
+Eredivisie;Fortuna Sittard;/team/634/fortuna-sittard/;94
+Eredivisie;Go Ahead Eagles;/team/100632/go-ahead-eagles/;95
+Eredivisie;Heracles Almelo;/team/100634/heracles-almelo/;96
+Eredivisie;Excelsior;/team/1971/excelsior/;97
+Eredivisie;PEC Zwolle;/team/1914/pec-zwolle/;98
+Eredivisie;Vitesse;/team/1909/vitesse/;99
+Eredivisie;RKC Waalwijk;/team/1905/rkc-waalwijk/;100
+Eredivisie;Almere City;/team/111380/almere-city/;101
+Eredivisie;FC Volendam;/team/645/fc-volendam/;102
+Serie A;Inter;/team/44/inter/;103
+Serie A;Milan;/team/47/milan/;104
+Serie A;Napoli;/team/48/napoli/;105
+Serie A;Juventus;/team/45/juventus/;106
+Serie A;Lazio;/team/46/lazio/;107
+Serie A;Roma;/team/52/roma/;108
+Serie A;Atalanta;/team/39/atalanta/;109
+Serie A;Fiorentina;/team/110374/fiorentina/;110
+Serie A;Torino;/team/54/torino/;111
+Serie A;Monza;/team/111811/monza/;112
+Serie A;Sassuolo;/team/111974/sassuolo/;113
+Serie A;Bologna;/team/189/bologna/;114
+Serie A;Salernitana;/team/110373/salernitana/;115
+Serie A;Udinese;/team/55/udinese/;116
+Serie A;Empoli;/team/1746/empoli/;117
+Serie A;Genoa;/team/110556/genoa/;118
+Serie A;Lecce;/team/347/lecce/;119
+Serie A;Cagliari;/team/1842/cagliari/;120
+Serie A;Hellas Verona;/team/206/hellas-verona/;121
+Serie A;Frosinone;/team/111657/frosinone/;122
+Bundesliga;FC Bayern München;/team/21/fc-bayern-munchen/;123
+Bundesliga;Borussia Dortmund;/team/22/borussia-dortmund/;124
+Bundesliga;Bayer 04 Leverkusen;/team/32/bayer-04-leverkusen/;125
+Bundesliga;RB Leipzig;/team/112172/rb-leipzig/;126
+Bundesliga;Eintracht Frankfurt;/team/1824/eintracht-frankfurt/;127
+Bundesliga;VfL Wolfsburg;/team/175/vfl-wolfsburg/;128
+Bundesliga;SC Freiburg;/team/25/sc-freiburg/;129
+Bundesliga;TSG Hoffenheim;/team/10029/tsg-hoffenheim/;130
+Bundesliga;FC Union Berlin;/team/1831/fc-union-berlin/;131
+Bundesliga;Borussia Mönchengladbach;/team/23/borussia-monchengladbach/;132
+Bundesliga;FSV Mainz 05;/team/169/fsv-mainz-05/;133
+Bundesliga;VfB Stuttgart;/team/36/vfb-stuttgart/;134
+Bundesliga;Werder Bremen;/team/38/werder-bremen/;135
+Bundesliga;FC Augsburg;/team/100409/fc-augsburg/;136
+Bundesliga;VfL Bochum 1848;/team/160/vfl-bochum-1848/;137
+Bundesliga;FC Köln;/team/31/fc-koln/;138
+Bundesliga;Heidenheim;/team/111235/heidenheim/;139
+Bundesliga;Darmstadt 98;/team/110502/darmstadt-98/;140
+Pro League;Anderlecht;/team/229/anderlecht/;141
+Pro League;Club Brugge;/team/231/club-brugge/;142
+Pro League;Antwerp;/team/230/antwerp/;143
+Pro League;Genk;/team/673/genk/;144
+Pro League;Gent;/team/674/gent/;145
+Pro League;Union Saint-Gilloise;/team/2014/union-saint-gilloise/;146
+Pro League;Standard Liège;/team/232/standard-liege/;147
+Pro League;Sporting Charleroi;/team/670/sporting-charleroi/;148
+Pro League;Mechelen;/team/110724/mechelen/;149
+Pro League;Cercle Brugge;/team/1750/cercle-brugge/;150
+Pro League;RWDM;/team/8001/rwdm/;151
+Pro League;OH Leuven;/team/100087/oh-leuven/;152
+Pro League;Westerlo;/team/681/westerlo/;153
+Pro League;AS Eupen;/team/2013/as-eupen/;154
+Pro League;Sint-Truiden;/team/680/sint-truiden/;155
+Pro League;Kortrijk;/team/100081/kortrijk/;156
+2. Bundesliga;Hertha BSC;/team/166/hertha-bsc/;157
+2. Bundesliga;Hamburger SV;/team/28/hamburger-sv/;158
+2. Bundesliga;Hannover 96;/team/485/hannover-96/;159
+2. Bundesliga;St. Pauli;/team/110329/st-pauli/;160
+2. Bundesliga;Fortuna Düsseldorf;/team/110636/fortuna-dusseldorf/;161
+2. Bundesliga;Schalke 04;/team/34/schalke-04/;162
+2. Bundesliga;SpVgg Greuther Fürth;/team/165/spvgg-greuther-furth/;163
+2. Bundesliga;Karlsruher SC;/team/1832/karlsruher-sc/;164
+2. Bundesliga;Magdeburg;/team/110588/magdeburg/;165
+2. Bundesliga;Paderborn;/team/10030/paderborn/;166
+2. Bundesliga;Holstein Kiel;/team/576/holstein-kiel/;167
+2. Bundesliga;Hansa Rostock;/team/27/hansa-rostock/;168
+2. Bundesliga;Nürnberg;/team/171/nurnberg/;169
+2. Bundesliga;Kaiserslautern;/team/29/kaiserslautern/;170
+2. Bundesliga;Elversberg;/team/580/elversberg/;171
+2. Bundesliga;Osnabrück;/team/487/osnabruck/;172
+2. Bundesliga;Eintracht Braunschweig;/team/110500/eintracht-braunschweig/;173
+2. Bundesliga;Wehen Wiesbaden;/team/492/wehen-wiesbaden/;174
+La Liga;Real Madrid;/team/243/real-madrid/;175
+La Liga;FC Barcelona;/team/241/fc-barcelona/;176
+La Liga;Atlético Madrid;/team/240/atletico-madrid/;177
+La Liga;Real Sociedad;/team/457/real-sociedad/;178
+La Liga;Athletic Club;/team/448/athletic-club/;179
+La Liga;Sevilla;/team/481/sevilla/;180
+La Liga;Villarreal;/team/483/villarreal/;181
+La Liga;Girona;/team/110062/girona/;182
+La Liga;Real Betis;/team/449/real-betis/;183
+La Liga;Mallorca;/team/453/mallorca/;184
+La Liga;Osasuna;/team/479/osasuna/;185
+La Liga;Rayo Vallecano;/team/480/rayo-vallecano/;186
+La Liga;Celta de Vigo;/team/450/celta-de-vigo/;187
+La Liga;Getafe;/team/1860/getafe/;188
+La Liga;Cádiz;/team/1968/cadiz/;189
+La Liga;Almería;/team/1861/almeria/;190
+La Liga;Las Palmas;/team/472/las-palmas/;191
+La Liga;Valencia;/team/461/valencia/;192
+La Liga;Granada;/team/110832/granada/;193
+La Liga;Deportivo Alavés;/team/463/deportivo-alaves/;194
+Premier League;Manchester City;/team/10/manchester-city/;195
+Premier League;Arsenal;/team/1/arsenal/;196
+Premier League;Liverpool;/team/9/liverpool/;197
+Premier League;Aston Villa;/team/2/aston-villa/;198
+Premier League;Tottenham Hotspur;/team/18/tottenham-hotspur/;199
+Premier League;Manchester United;/team/11/manchester-united/;200
+Premier League;Newcastle United;/team/13/newcastle-united/;201
+Premier League;West Ham United;/team/19/west-ham-united/;202
+Premier League;Chelsea;/team/5/chelsea/;203
+Premier League;Nottingham Forest;/team/14/nottingham-forest/;204
+Premier League;Brentford;/team/1925/brentford/;205
+Premier League;Wolverhampton Wanderers;/team/110/wolverhampton-wanderers/;206
+Premier League;Fulham;/team/144/fulham/;207
+Premier League;Brighton & Hove Albion;/team/1808/brighton-hove-albion/;208
+Premier League;Crystal Palace;/team/1799/crystal-palace/;209
+Premier League;AFC Bournemouth;/team/1943/afc-bournemouth/;210
+Premier League;Everton;/team/7/everton/;211
+Premier League;Burnley;/team/1796/burnley/;212
+Premier League;Sheffield United;/team/1794/sheffield-united/;213
+Premier League;Luton Town;/team/1923/luton-town/;214
+Serie B;Cremonese;/team/111434/cremonese/;215
+Serie B;Como;/team/1745/como/;216
+Serie B;Palermo;/team/1843/palermo/;217
+Serie B;Parma;/team/50/parma/;218
+Serie B;Venezia;/team/205/venezia/;219
+Serie B;Sampdoria;/team/1837/sampdoria/;220
+Serie B;Spezia;/team/110741/spezia/;221
+Serie B;Pisa;/team/110738/pisa/;222
+Serie B;Bari 1908;/team/1848/bari-1908/;223
+Serie B;Ascoli;/team/1847/ascoli/;224
+Serie B;Cosenza;/team/112168/cosenza/;225
+Serie B;Südtirol;/team/112494/sudtirol/;226
+Serie B;Brescia;/team/190/brescia/;227
+Serie B;Catanzaro;/team/110908/catanzaro/;228
+Serie B;Reggiana;/team/110740/reggiana/;229
+Serie B;Modena;/team/1744/modena/;230
+Serie B;Ternana;/team/570/ternana/;231
+Serie B;Cittadella;/team/111993/cittadella/;232
+Serie B;Lecco;/team/1846/lecco/;233
+Serie B;FeralpiSalò;/team/112499/feralpisalo/;234
+Primeira Liga;Benfica;/team/234/benfica/;235
+Primeira Liga;Sporting CP;/team/237/sporting-cp/;236
+Primeira Liga;Porto;/team/236/porto/;237
+Primeira Liga;Sporting Braga;/team/1896/sporting-braga/;238
+Primeira Liga;Vitória SC;/team/1887/vitoria-sc/;239
+Primeira Liga;Famalicão;/team/112809/famalicao/;240
+Primeira Liga;Rio Ave;/team/744/rio-ave/;241
+Primeira Liga;Arouca;/team/112513/arouca/;242
+Primeira Liga;Estoril;/team/10020/estoril/;243
+Primeira Liga;Chaves;/team/518/chaves/;244
+Primeira Liga;Portimonense;/team/10031/portimonense/;245
+Primeira Liga;Moreirense;/team/1900/moreirense/;246
+Primeira Liga;Boavista;/team/1898/boavista/;247
+Primeira Liga;Farense;/team/489/farense/;248
+Primeira Liga;Gil Vicente;/team/1888/gil-vicente/;249
+Primeira Liga;Estrela Amadora;/team/718/estrela-amadora/;250
+Primeira Liga;Casa Pia;/team/114510/casa-pia/;251
+Primeira Liga;Vizela;/team/111539/vizela/;252
+Süper Lig;Galatasaray;/team/325/galatasaray/;253
+Süper Lig;Fenerbahçe;/team/326/fenerbahce/;254
+Süper Lig;Beşiktaş;/team/327/besiktas/;255
+Süper Lig;Trabzonspor;/team/436/trabzonspor/;256
+Süper Lig;İstanbul Başakşehir;/team/101014/istanbul-basaksehir/;257
+Süper Lig;Fatih Karagümrük;/team/111117/fatih-karagumruk/;258
+Süper Lig;Adana Demirspor;/team/101016/adana-demirspor/;259
+Süper Lig;Ankaragücü;/team/101007/ankaragucu/;260
+Süper Lig;Samsunspor;/team/748/samsunspor/;261
+Süper Lig;Kasımpaşa;/team/111339/kasimpasa/;262
+Süper Lig;Alanyaspor;/team/113142/alanyaspor/;263
+Süper Lig;Gaziantep F.K.;/team/110776/gaziantep-fk/;264
+Süper Lig;Konyaspor;/team/101033/konyaspor/;265
+Süper Lig;Pendikspor;/team/131389/pendikspor/;266
+Süper Lig;Antalyaspor;/team/741/antalyaspor/;267
+Süper Lig;Rizespor;/team/101037/rizespor/;268
+Süper Lig;Sivasspor;/team/101041/sivasspor/;269
+Süper Lig;Hatayspor;/team/101028/hatayspor/;270
+Süper Lig;Kayserispor;/team/101020/kayserispor/;271
+Süper Lig;İstanbulspor;/team/746/istanbulspor/;272

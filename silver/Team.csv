@@ -1,0 +1,273 @@
+TeamId;Team;League
+1;Leicester City;Championship
+2;Leeds United;Championship
+3;Southampton;Championship
+4;Norwich City;Championship
+5;Middlesbrough;Championship
+6;Hull City;Championship
+7;Stoke City;Championship
+8;West Bromwich Albion;Championship
+9;Watford;Championship
+10;Coventry City;Championship
+11;Preston North End;Championship
+12;Blackburn Rovers;Championship
+13;Cardiff City;Championship
+14;Millwall;Championship
+15;Ipswich Town;Championship
+16;Queens Park Rangers;Championship
+17;Swansea City;Championship
+18;Bristol City;Championship
+19;Birmingham City;Championship
+20;Sunderland;Championship
+21;Sheffield Wednesday;Championship
+22;Plymouth Argyle;Championship
+23;Huddersfield Town;Championship
+24;Rotherham United;Championship
+25;Saint-Étienne;Ligue 2
+26;Bordeaux;Ligue 2
+27;Angers SCO;Ligue 2
+28;Auxerre;Ligue 2
+29;Paris;Ligue 2
+30;Amiens SC;Ligue 2
+31;Grenoble Foot 38;Ligue 2
+32;Ajaccio;Ligue 2
+33;Troyes;Ligue 2
+34;Caen;Ligue 2
+35;Laval;Ligue 2
+36;Pau;Ligue 2
+37;Guingamp;Ligue 2
+38;Quevilly Rouen;Ligue 2
+39;Bastia;Ligue 2
+40;Rodez;Ligue 2
+41;Dunkerque;Ligue 2
+42;Valenciennes;Ligue 2
+43;Annecy;Ligue 2
+44;Concarneau;Ligue 2
+45;Paris Saint Germain;Ligue 1
+46;Lens;Ligue 1
+47;Olympique de Marseille;Ligue 1
+48;Monaco;Ligue 1
+49;Nice;Ligue 1
+50;Rennes;Ligue 1
+51;LOSC Lille;Ligue 1
+52;Olympique Lyonnais;Ligue 1
+53;Montpellier;Ligue 1
+54;Stade de Reims;Ligue 1
+55;Brest;Ligue 1
+56;Nantes;Ligue 1
+57;Lorient;Ligue 1
+58;Strasbourg;Ligue 1
+59;Toulouse;Ligue 1
+60;Metz;Ligue 1
+61;Le Havre;Ligue 1
+62;Clermont;Ligue 1
+63;Espanyol;La Liga 2
+64;Real Valladolid;La Liga 2
+65;Real Zaragoza;La Liga 2
+66;Sporting Gijón;La Liga 2
+67;SD Eibar;La Liga 2
+68;Levante;La Liga 2
+69;Leganés;La Liga 2
+70;Real Oviedo;La Liga 2
+71;Burgos;La Liga 2
+72;Elche;La Liga 2
+73;Tenerife;La Liga 2
+74;Albacete;La Liga 2
+75;Huesca;La Liga 2
+76;Racing Santander;La Liga 2
+77;Racing Ferrol;La Liga 2
+78;Eldense;La Liga 2
+79;FC Cartagena;La Liga 2
+80;Villarreal II;La Liga 2
+81;FC Andorra;La Liga 2
+82;Alcorcón;La Liga 2
+83;Mirandés;La Liga 2
+84;Amorebieta;La Liga 2
+85;PSV;Eredivisie
+86;Feyenoord;Eredivisie
+87;Ajax;Eredivisie
+88;FC Twente;Eredivisie
+89;AZ Alkmaar;Eredivisie
+90;FC Utrecht;Eredivisie
+91;SC Heerenveen;Eredivisie
+92;NEC;Eredivisie
+93;Sparta Rotterdam;Eredivisie
+94;Fortuna Sittard;Eredivisie
+95;Go Ahead Eagles;Eredivisie
+96;Heracles Almelo;Eredivisie
+97;Excelsior;Eredivisie
+98;PEC Zwolle;Eredivisie
+99;Vitesse;Eredivisie
+100;RKC Waalwijk;Eredivisie
+101;Almere City;Eredivisie
+102;FC Volendam;Eredivisie
+103;Inter;Serie A
+104;Milan;Serie A
+105;Napoli;Serie A
+106;Juventus;Serie A
+107;Lazio;Serie A
+108;Roma;Serie A
+109;Atalanta;Serie A
+110;Fiorentina;Serie A
+111;Torino;Serie A
+112;Monza;Serie A
+113;Sassuolo;Serie A
+114;Bologna;Serie A
+115;Salernitana;Serie A
+116;Udinese;Serie A
+117;Empoli;Serie A
+118;Genoa;Serie A
+119;Lecce;Serie A
+120;Cagliari;Serie A
+121;Hellas Verona;Serie A
+122;Frosinone;Serie A
+123;FC Bayern München;Bundesliga
+124;Borussia Dortmund;Bundesliga
+125;Bayer 04 Leverkusen;Bundesliga
+126;RB Leipzig;Bundesliga
+127;Eintracht Frankfurt;Bundesliga
+128;VfL Wolfsburg;Bundesliga
+129;SC Freiburg;Bundesliga
+130;TSG Hoffenheim;Bundesliga
+131;FC Union Berlin;Bundesliga
+132;Borussia Mönchengladbach;Bundesliga
+133;FSV Mainz 05;Bundesliga
+134;VfB Stuttgart;Bundesliga
+135;Werder Bremen;Bundesliga
+136;FC Augsburg;Bundesliga
+137;VfL Bochum 1848;Bundesliga
+138;FC Köln;Bundesliga
+139;Heidenheim;Bundesliga
+140;Darmstadt 98;Bundesliga
+141;Anderlecht;Pro League
+142;Club Brugge;Pro League
+143;Antwerp;Pro League
+144;Genk;Pro League
+145;Gent;Pro League
+146;Union Saint-Gilloise;Pro League
+147;Standard Liège;Pro League
+148;Sporting Charleroi;Pro League
+149;Mechelen;Pro League
+150;Cercle Brugge;Pro League
+151;RWDM;Pro League
+152;OH Leuven;Pro League
+153;Westerlo;Pro League
+154;AS Eupen;Pro League
+155;Sint-Truiden;Pro League
+156;Kortrijk;Pro League
+157;Hertha BSC;2. Bundesliga
+158;Hamburger SV;2. Bundesliga
+159;Hannover 96;2. Bundesliga
+160;St. Pauli;2. Bundesliga
+161;Fortuna Düsseldorf;2. Bundesliga
+162;Schalke 04;2. Bundesliga
+163;SpVgg Greuther Fürth;2. Bundesliga
+164;Karlsruher SC;2. Bundesliga
+165;Magdeburg;2. Bundesliga
+166;Paderborn;2. Bundesliga
+167;Holstein Kiel;2. Bundesliga
+168;Hansa Rostock;2. Bundesliga
+169;Nürnberg;2. Bundesliga
+170;Kaiserslautern;2. Bundesliga
+171;Elversberg;2. Bundesliga
+172;Osnabrück;2. Bundesliga
+173;Eintracht Braunschweig;2. Bundesliga
+174;Wehen Wiesbaden;2. Bundesliga
+175;Real Madrid;La Liga
+176;FC Barcelona;La Liga
+177;Atlético Madrid;La Liga
+178;Real Sociedad;La Liga
+179;Athletic Club;La Liga
+180;Sevilla;La Liga
+181;Villarreal;La Liga
+182;Girona;La Liga
+183;Real Betis;La Liga
+184;Mallorca;La Liga
+185;Osasuna;La Liga
+186;Rayo Vallecano;La Liga
+187;Celta de Vigo;La Liga
+188;Getafe;La Liga
+189;Cádiz;La Liga
+190;Almería;La Liga
+191;Las Palmas;La Liga
+192;Valencia;La Liga
+193;Granada;La Liga
+194;Deportivo Alavés;La Liga
+195;Manchester City;Premier League
+196;Arsenal;Premier League
+197;Liverpool;Premier League
+198;Aston Villa;Premier League
+199;Tottenham Hotspur;Premier League
+200;Manchester United;Premier League
+201;Newcastle United;Premier League
+202;West Ham United;Premier League
+203;Chelsea;Premier League
+204;Nottingham Forest;Premier League
+205;Brentford;Premier League
+206;Wolverhampton Wanderers;Premier League
+207;Fulham;Premier League
+208;Brighton & Hove Albion;Premier League
+209;Crystal Palace;Premier League
+210;AFC Bournemouth;Premier League
+211;Everton;Premier League
+212;Burnley;Premier League
+213;Sheffield United;Premier League
+214;Luton Town;Premier League
+215;Cremonese;Serie B
+216;Como;Serie B
+217;Palermo;Serie B
+218;Parma;Serie B
+219;Venezia;Serie B
+220;Sampdoria;Serie B
+221;Spezia;Serie B
+222;Pisa;Serie B
+223;Bari 1908;Serie B
+224;Ascoli;Serie B
+225;Cosenza;Serie B
+226;Südtirol;Serie B
+227;Brescia;Serie B
+228;Catanzaro;Serie B
+229;Reggiana;Serie B
+230;Modena;Serie B
+231;Ternana;Serie B
+232;Cittadella;Serie B
+233;Lecco;Serie B
+234;FeralpiSalò;Serie B
+235;Benfica;Primeira Liga
+236;Sporting CP;Primeira Liga
+237;Porto;Primeira Liga
+238;Sporting Braga;Primeira Liga
+239;Vitória SC;Primeira Liga
+240;Famalicão;Primeira Liga
+241;Rio Ave;Primeira Liga
+242;Arouca;Primeira Liga
+243;Estoril;Primeira Liga
+244;Chaves;Primeira Liga
+245;Portimonense;Primeira Liga
+246;Moreirense;Primeira Liga
+247;Boavista;Primeira Liga
+248;Farense;Primeira Liga
+249;Gil Vicente;Primeira Liga
+250;Estrela Amadora;Primeira Liga
+251;Casa Pia;Primeira Liga
+252;Vizela;Primeira Liga
+253;Galatasaray;Süper Lig
+254;Fenerbahçe;Süper Lig
+255;Beşiktaş;Süper Lig
+256;Trabzonspor;Süper Lig
+257;İstanbul Başakşehir;Süper Lig
+258;Fatih Karagümrük;Süper Lig
+259;Adana Demirspor;Süper Lig
+260;Ankaragücü;Süper Lig
+261;Samsunspor;Süper Lig
+262;Kasımpaşa;Süper Lig
+263;Alanyaspor;Süper Lig
+264;Gaziantep F.K.;Süper Lig
+265;Konyaspor;Süper Lig
+266;Pendikspor;Süper Lig
+267;Antalyaspor;Süper Lig
+268;Rizespor;Süper Lig
+269;Sivasspor;Süper Lig
+270;Hatayspor;Süper Lig
+271;Kayserispor;Süper Lig
+272;İstanbulspor;Süper Lig
