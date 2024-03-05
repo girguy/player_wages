@@ -1,273 +1,273 @@
-TeamId;Team;League
-1;Leicester City;Championship
-2;Leeds United;Championship
-3;Southampton;Championship
-4;Norwich City;Championship
-5;Middlesbrough;Championship
-6;Hull City;Championship
-7;Stoke City;Championship
-8;West Bromwich Albion;Championship
-9;Watford;Championship
-10;Coventry City;Championship
-11;Preston North End;Championship
-12;Blackburn Rovers;Championship
-13;Cardiff City;Championship
-14;Millwall;Championship
-15;Ipswich Town;Championship
-16;Queens Park Rangers;Championship
-17;Swansea City;Championship
-18;Bristol City;Championship
-19;Birmingham City;Championship
-20;Sunderland;Championship
-21;Sheffield Wednesday;Championship
-22;Plymouth Argyle;Championship
-23;Huddersfield Town;Championship
-24;Rotherham United;Championship
-25;Saint-Étienne;Ligue 2
-26;Bordeaux;Ligue 2
-27;Angers SCO;Ligue 2
-28;Auxerre;Ligue 2
-29;Paris;Ligue 2
-30;Amiens SC;Ligue 2
-31;Grenoble Foot 38;Ligue 2
-32;Ajaccio;Ligue 2
-33;Troyes;Ligue 2
-34;Caen;Ligue 2
-35;Laval;Ligue 2
-36;Pau;Ligue 2
-37;Guingamp;Ligue 2
-38;Quevilly Rouen;Ligue 2
-39;Bastia;Ligue 2
-40;Rodez;Ligue 2
-41;Dunkerque;Ligue 2
-42;Valenciennes;Ligue 2
-43;Annecy;Ligue 2
-44;Concarneau;Ligue 2
-45;Paris Saint Germain;Ligue 1
-46;Lens;Ligue 1
-47;Olympique de Marseille;Ligue 1
-48;Monaco;Ligue 1
-49;Nice;Ligue 1
-50;Rennes;Ligue 1
-51;LOSC Lille;Ligue 1
-52;Olympique Lyonnais;Ligue 1
-53;Montpellier;Ligue 1
-54;Stade de Reims;Ligue 1
-55;Brest;Ligue 1
-56;Nantes;Ligue 1
-57;Lorient;Ligue 1
-58;Strasbourg;Ligue 1
-59;Toulouse;Ligue 1
-60;Metz;Ligue 1
-61;Le Havre;Ligue 1
-62;Clermont;Ligue 1
-63;Espanyol;La Liga 2
-64;Real Valladolid;La Liga 2
-65;Real Zaragoza;La Liga 2
-66;Sporting Gijón;La Liga 2
-67;SD Eibar;La Liga 2
-68;Levante;La Liga 2
-69;Leganés;La Liga 2
-70;Real Oviedo;La Liga 2
-71;Burgos;La Liga 2
-72;Elche;La Liga 2
-73;Tenerife;La Liga 2
-74;Albacete;La Liga 2
-75;Huesca;La Liga 2
-76;Racing Santander;La Liga 2
-77;Racing Ferrol;La Liga 2
-78;Eldense;La Liga 2
-79;FC Cartagena;La Liga 2
-80;Villarreal II;La Liga 2
-81;FC Andorra;La Liga 2
-82;Alcorcón;La Liga 2
-83;Mirandés;La Liga 2
-84;Amorebieta;La Liga 2
-85;PSV;Eredivisie
-86;Feyenoord;Eredivisie
-87;Ajax;Eredivisie
-88;FC Twente;Eredivisie
-89;AZ Alkmaar;Eredivisie
-90;FC Utrecht;Eredivisie
-91;SC Heerenveen;Eredivisie
-92;NEC;Eredivisie
-93;Sparta Rotterdam;Eredivisie
-94;Fortuna Sittard;Eredivisie
-95;Go Ahead Eagles;Eredivisie
-96;Heracles Almelo;Eredivisie
-97;Excelsior;Eredivisie
-98;PEC Zwolle;Eredivisie
-99;Vitesse;Eredivisie
-100;RKC Waalwijk;Eredivisie
-101;Almere City;Eredivisie
-102;FC Volendam;Eredivisie
-103;Inter;Serie A
-104;Milan;Serie A
-105;Napoli;Serie A
-106;Juventus;Serie A
-107;Lazio;Serie A
-108;Roma;Serie A
-109;Atalanta;Serie A
-110;Fiorentina;Serie A
-111;Torino;Serie A
-112;Monza;Serie A
-113;Sassuolo;Serie A
-114;Bologna;Serie A
-115;Salernitana;Serie A
-116;Udinese;Serie A
-117;Empoli;Serie A
-118;Genoa;Serie A
-119;Lecce;Serie A
-120;Cagliari;Serie A
-121;Hellas Verona;Serie A
-122;Frosinone;Serie A
-123;FC Bayern München;Bundesliga
-124;Borussia Dortmund;Bundesliga
-125;Bayer 04 Leverkusen;Bundesliga
-126;RB Leipzig;Bundesliga
-127;Eintracht Frankfurt;Bundesliga
-128;VfL Wolfsburg;Bundesliga
-129;SC Freiburg;Bundesliga
-130;TSG Hoffenheim;Bundesliga
-131;FC Union Berlin;Bundesliga
-132;Borussia Mönchengladbach;Bundesliga
-133;FSV Mainz 05;Bundesliga
-134;VfB Stuttgart;Bundesliga
-135;Werder Bremen;Bundesliga
-136;FC Augsburg;Bundesliga
-137;VfL Bochum 1848;Bundesliga
-138;FC Köln;Bundesliga
-139;Heidenheim;Bundesliga
-140;Darmstadt 98;Bundesliga
-141;Anderlecht;Pro League
-142;Club Brugge;Pro League
-143;Antwerp;Pro League
-144;Genk;Pro League
-145;Gent;Pro League
-146;Union Saint-Gilloise;Pro League
-147;Standard Liège;Pro League
-148;Sporting Charleroi;Pro League
-149;Mechelen;Pro League
-150;Cercle Brugge;Pro League
-151;RWDM;Pro League
-152;OH Leuven;Pro League
-153;Westerlo;Pro League
-154;AS Eupen;Pro League
-155;Sint-Truiden;Pro League
-156;Kortrijk;Pro League
-157;Hertha BSC;2. Bundesliga
-158;Hamburger SV;2. Bundesliga
-159;Hannover 96;2. Bundesliga
-160;St. Pauli;2. Bundesliga
-161;Fortuna Düsseldorf;2. Bundesliga
-162;Schalke 04;2. Bundesliga
-163;SpVgg Greuther Fürth;2. Bundesliga
-164;Karlsruher SC;2. Bundesliga
-165;Magdeburg;2. Bundesliga
-166;Paderborn;2. Bundesliga
-167;Holstein Kiel;2. Bundesliga
-168;Hansa Rostock;2. Bundesliga
-169;Nürnberg;2. Bundesliga
-170;Kaiserslautern;2. Bundesliga
-171;Elversberg;2. Bundesliga
-172;Osnabrück;2. Bundesliga
-173;Eintracht Braunschweig;2. Bundesliga
-174;Wehen Wiesbaden;2. Bundesliga
-175;Real Madrid;La Liga
-176;FC Barcelona;La Liga
-177;Atlético Madrid;La Liga
-178;Real Sociedad;La Liga
-179;Athletic Club;La Liga
-180;Sevilla;La Liga
-181;Villarreal;La Liga
-182;Girona;La Liga
-183;Real Betis;La Liga
-184;Mallorca;La Liga
-185;Osasuna;La Liga
-186;Rayo Vallecano;La Liga
-187;Celta de Vigo;La Liga
-188;Getafe;La Liga
-189;Cádiz;La Liga
-190;Almería;La Liga
-191;Las Palmas;La Liga
-192;Valencia;La Liga
-193;Granada;La Liga
-194;Deportivo Alavés;La Liga
-195;Manchester City;Premier League
-196;Arsenal;Premier League
-197;Liverpool;Premier League
-198;Aston Villa;Premier League
-199;Tottenham Hotspur;Premier League
-200;Manchester United;Premier League
-201;Newcastle United;Premier League
-202;West Ham United;Premier League
-203;Chelsea;Premier League
-204;Nottingham Forest;Premier League
-205;Brentford;Premier League
-206;Wolverhampton Wanderers;Premier League
-207;Fulham;Premier League
-208;Brighton & Hove Albion;Premier League
-209;Crystal Palace;Premier League
-210;AFC Bournemouth;Premier League
-211;Everton;Premier League
-212;Burnley;Premier League
-213;Sheffield United;Premier League
-214;Luton Town;Premier League
-215;Cremonese;Serie B
-216;Como;Serie B
-217;Palermo;Serie B
-218;Parma;Serie B
-219;Venezia;Serie B
-220;Sampdoria;Serie B
-221;Spezia;Serie B
-222;Pisa;Serie B
-223;Bari 1908;Serie B
-224;Ascoli;Serie B
-225;Cosenza;Serie B
-226;Südtirol;Serie B
-227;Brescia;Serie B
-228;Catanzaro;Serie B
-229;Reggiana;Serie B
-230;Modena;Serie B
-231;Ternana;Serie B
-232;Cittadella;Serie B
-233;Lecco;Serie B
-234;FeralpiSalò;Serie B
-235;Benfica;Primeira Liga
-236;Sporting CP;Primeira Liga
-237;Porto;Primeira Liga
-238;Sporting Braga;Primeira Liga
-239;Vitória SC;Primeira Liga
-240;Famalicão;Primeira Liga
-241;Rio Ave;Primeira Liga
-242;Arouca;Primeira Liga
-243;Estoril;Primeira Liga
-244;Chaves;Primeira Liga
-245;Portimonense;Primeira Liga
-246;Moreirense;Primeira Liga
-247;Boavista;Primeira Liga
-248;Farense;Primeira Liga
-249;Gil Vicente;Primeira Liga
-250;Estrela Amadora;Primeira Liga
-251;Casa Pia;Primeira Liga
-252;Vizela;Primeira Liga
-253;Galatasaray;Süper Lig
-254;Fenerbahçe;Süper Lig
-255;Beşiktaş;Süper Lig
-256;Trabzonspor;Süper Lig
-257;İstanbul Başakşehir;Süper Lig
-258;Fatih Karagümrük;Süper Lig
-259;Adana Demirspor;Süper Lig
-260;Ankaragücü;Süper Lig
-261;Samsunspor;Süper Lig
-262;Kasımpaşa;Süper Lig
-263;Alanyaspor;Süper Lig
-264;Gaziantep F.K.;Süper Lig
-265;Konyaspor;Süper Lig
-266;Pendikspor;Süper Lig
-267;Antalyaspor;Süper Lig
-268;Rizespor;Süper Lig
-269;Sivasspor;Süper Lig
-270;Hatayspor;Süper Lig
-271;Kayserispor;Süper Lig
-272;İstanbulspor;Süper Lig
+Team;TeamId
+Leicester City;1
+Leeds United;2
+Southampton;3
+Norwich City;4
+Middlesbrough;5
+Hull City;6
+Stoke City;7
+West Bromwich Albion;8
+Watford;9
+Coventry City;10
+Preston North End;11
+Blackburn Rovers;12
+Cardiff City;13
+Millwall;14
+Ipswich Town;15
+Queens Park Rangers;16
+Swansea City;17
+Bristol City;18
+Birmingham City;19
+Sunderland;20
+Sheffield Wednesday;21
+Plymouth Argyle;22
+Huddersfield Town;23
+Rotherham United;24
+Saint-Étienne;25
+Bordeaux;26
+Angers SCO;27
+Auxerre;28
+Paris;29
+Amiens SC;30
+Grenoble Foot 38;31
+Ajaccio;32
+Troyes;33
+Caen;34
+Laval;35
+Pau;36
+Guingamp;37
+Quevilly Rouen;38
+Bastia;39
+Rodez;40
+Dunkerque;41
+Valenciennes;42
+Annecy;43
+Concarneau;44
+Paris Saint Germain;45
+Lens;46
+Olympique de Marseille;47
+Monaco;48
+Nice;49
+Rennes;50
+LOSC Lille;51
+Olympique Lyonnais;52
+Montpellier;53
+Stade de Reims;54
+Brest;55
+Nantes;56
+Lorient;57
+Strasbourg;58
+Toulouse;59
+Metz;60
+Le Havre;61
+Clermont;62
+Espanyol;63
+Real Valladolid;64
+Real Zaragoza;65
+Sporting Gijón;66
+SD Eibar;67
+Levante;68
+Leganés;69
+Real Oviedo;70
+Burgos;71
+Elche;72
+Tenerife;73
+Albacete;74
+Huesca;75
+Racing Santander;76
+Racing Ferrol;77
+Eldense;78
+FC Cartagena;79
+Villarreal II;80
+FC Andorra;81
+Alcorcón;82
+Mirandés;83
+Amorebieta;84
+PSV;85
+Feyenoord;86
+Ajax;87
+FC Twente;88
+AZ Alkmaar;89
+FC Utrecht;90
+SC Heerenveen;91
+NEC;92
+Sparta Rotterdam;93
+Fortuna Sittard;94
+Go Ahead Eagles;95
+Heracles Almelo;96
+Excelsior;97
+PEC Zwolle;98
+Vitesse;99
+RKC Waalwijk;100
+Almere City;101
+FC Volendam;102
+Inter;103
+Milan;104
+Napoli;105
+Juventus;106
+Lazio;107
+Roma;108
+Atalanta;109
+Fiorentina;110
+Torino;111
+Monza;112
+Sassuolo;113
+Bologna;114
+Salernitana;115
+Udinese;116
+Empoli;117
+Genoa;118
+Lecce;119
+Cagliari;120
+Hellas Verona;121
+Frosinone;122
+FC Bayern München;123
+Borussia Dortmund;124
+Bayer 04 Leverkusen;125
+RB Leipzig;126
+Eintracht Frankfurt;127
+VfL Wolfsburg;128
+SC Freiburg;129
+TSG Hoffenheim;130
+FC Union Berlin;131
+Borussia Mönchengladbach;132
+FSV Mainz 05;133
+VfB Stuttgart;134
+Werder Bremen;135
+FC Augsburg;136
+VfL Bochum 1848;137
+FC Köln;138
+Heidenheim;139
+Darmstadt 98;140
+Anderlecht;141
+Club Brugge;142
+Antwerp;143
+Genk;144
+Gent;145
+Union Saint-Gilloise;146
+Standard Liège;147
+Sporting Charleroi;148
+Mechelen;149
+Cercle Brugge;150
+RWDM;151
+OH Leuven;152
+Westerlo;153
+AS Eupen;154
+Sint-Truiden;155
+Kortrijk;156
+Hertha BSC;157
+Hamburger SV;158
+Hannover 96;159
+St. Pauli;160
+Fortuna Düsseldorf;161
+Schalke 04;162
+SpVgg Greuther Fürth;163
+Karlsruher SC;164
+Magdeburg;165
+Paderborn;166
+Holstein Kiel;167
+Hansa Rostock;168
+Nürnberg;169
+Kaiserslautern;170
+Elversberg;171
+Osnabrück;172
+Eintracht Braunschweig;173
+Wehen Wiesbaden;174
+Real Madrid;175
+FC Barcelona;176
+Atlético Madrid;177
+Real Sociedad;178
+Athletic Club;179
+Sevilla;180
+Villarreal;181
+Girona;182
+Real Betis;183
+Mallorca;184
+Osasuna;185
+Rayo Vallecano;186
+Celta de Vigo;187
+Getafe;188
+Cádiz;189
+Almería;190
+Las Palmas;191
+Valencia;192
+Granada;193
+Deportivo Alavés;194
+Manchester City;195
+Arsenal;196
+Liverpool;197
+Aston Villa;198
+Tottenham Hotspur;199
+Manchester United;200
+Newcastle United;201
+West Ham United;202
+Chelsea;203
+Nottingham Forest;204
+Brentford;205
+Wolverhampton Wanderers;206
+Fulham;207
+Brighton & Hove Albion;208
+Crystal Palace;209
+AFC Bournemouth;210
+Everton;211
+Burnley;212
+Sheffield United;213
+Luton Town;214
+Cremonese;215
+Como;216
+Palermo;217
+Parma;218
+Venezia;219
+Sampdoria;220
+Spezia;221
+Pisa;222
+Bari 1908;223
+Ascoli;224
+Cosenza;225
+Südtirol;226
+Brescia;227
+Catanzaro;228
+Reggiana;229
+Modena;230
+Ternana;231
+Cittadella;232
+Lecco;233
+FeralpiSalò;234
+Benfica;235
+Sporting CP;236
+Porto;237
+Sporting Braga;238
+Vitória SC;239
+Famalicão;240
+Rio Ave;241
+Arouca;242
+Estoril;243
+Chaves;244
+Portimonense;245
+Moreirense;246
+Boavista;247
+Farense;248
+Gil Vicente;249
+Estrela Amadora;250
+Casa Pia;251
+Vizela;252
+Galatasaray;253
+Fenerbahçe;254
+Beşiktaş;255
+Trabzonspor;256
+İstanbul Başakşehir;257
+Fatih Karagümrük;258
+Adana Demirspor;259
+Ankaragücü;260
+Samsunspor;261
+Kasımpaşa;262
+Alanyaspor;263
+Gaziantep F.K.;264
+Konyaspor;265
+Pendikspor;266
+Antalyaspor;267
+Rizespor;268
+Sivasspor;269
+Hatayspor;270
+Kayserispor;271
+İstanbulspor;272
