@@ -23,6 +23,4 @@ powerbi dashboard (free solution).
 
 ------------
 
-- put star player in test set such as Musiala, Mbappe, Debruyn, or put all of them and only compute metrics
-on test players (do that). -> Now
 - best set of parameters with regression techniques (chatGpt that shit) -> next iteration -> Next
