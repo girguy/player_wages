@@ -34,8 +34,9 @@ st.markdown(
 
 @st.cache_data
 def show_power_bi():
-    html_string = """<center><iframe title="player_wages" width="100%" height="830" src="https://app.powerbi.com/view?r=eyJrIjoiYTlkYWE2YzYtZDQxNS00YzM1LWJkMDItOTk1YjZjZGU1NGIyIiwidCI6ImJjMDMwMGE0LTJkZmEtNDExYi1iYzFjLWM1NDRlNmJiZWZmMyIsImMiOjl9" frameborder="0" allowFullScreen="false"></iframe></center>"""
+    html_string = """<center><iframe title="player_wages" width="100%" height="830" src="https://app.powerbi.com/view?r=eyJrIjoiYTlkYWE2YzYtZDQxNS00YzM1LWJkMDItOTk1YjZjZGU1NGIyIiwidCI6ImJjMDMwMGE0LTJkZmEtNDExYi1iYzFjLWM1NDRlNmJiZWZmMyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe></center>"""
     st.markdown(html_string, unsafe_allow_html=True)
+
 
 
 show_power_bi()
