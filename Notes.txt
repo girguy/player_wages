@@ -1,0 +1,26 @@
+The goal of this project was to answer a simple question : Is it possible to predict the salary of a soccer player based on its performances and some of its
+caracteristics on the pitch ?
+To who and when the answer of this question is important ? Players, Players agent, clubs financial director, recruiters, etc. 
+When is it important to answer this question ? For contract negotiation, a coming transfer or when a choice has to be made between
+two or more players to recruit or to sell.. Plenty of situations exists.
+
+This dashboard gives to these actors an idea of how much a player should earn, the caracteristics that
+affects the most such a salary (Reactions, Team, ball control, etc). It gives you an idea of if a player is underpaid or overpaid.
+
+But attention, data do not tell the whole story. In this case this model do not take into account, the star power of player.
+Kylian Mbappe is the highest-paid player in Europe's top five league.
+He earns 3.68 more money than Kevin Debruyn, one of the best player in the world. Does it mean that Mbappe his 3.68 time better
+then Kevin Debruyn ? No. 
+
+This work is not finshed yet as I would like to add a page with Players similarities.
+A medium article will be written to explain some concepts such as Feature importance, 
+So more to come!
+
+The data were found on SoFoot.com, processed with Polars and Pandas (for the training).
+I used LightGBM to train my regressor, a K-Means cluster was used to find the class of incomes.
+This dashboard was made using PowerBI and was displayed in a Streamlit app via the iframe of the
+powerbi dashboard (free solution).
+
+------------
+
+- best set of parameters with regression techniques (chatGpt that shit) -> next iteration -> Next

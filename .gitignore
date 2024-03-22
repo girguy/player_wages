@@ -168,6 +168,8 @@ pictures/.$logo_team.png.bkp
 .streamlit/secrets
 .streamlit/secrets.toml
 run_all_notebooks.ipynb
-raw/*
-silver/*
-gold/*
+raw/*.csv
+silver/*.csv
+gold/*.csv
+silver/Player.csv
+silver/Team.csv

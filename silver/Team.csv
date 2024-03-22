@@ -1,0 +1,273 @@
+Team,TeamId
+Leicester City,1
+Leeds United,2
+Southampton,3
+Norwich City,4
+Middlesbrough,5
+Hull City,6
+Stoke City,7
+West Bromwich Albion,8
+Watford,9
+Coventry City,10
+Preston North End,11
+Blackburn Rovers,12
+Cardiff City,13
+Millwall,14
+Ipswich Town,15
+Queens Park Rangers,16
+Swansea City,17
+Bristol City,18
+Birmingham City,19
+Sunderland,20
+Sheffield Wednesday,21
+Plymouth Argyle,22
+Huddersfield Town,23
+Rotherham United,24
+Saint-Étienne,25
+Bordeaux,26
+Angers SCO,27
+Auxerre,28
+Paris,29
+Amiens SC,30
+Grenoble Foot 38,31
+Ajaccio,32
+Troyes,33
+Caen,34
+Laval,35
+Pau,36
+Guingamp,37
+Quevilly Rouen,38
+Bastia,39
+Rodez,40
+Dunkerque,41
+Valenciennes,42
+Annecy,43
+Concarneau,44
+Paris Saint Germain,45
+Lens,46
+Olympique de Marseille,47
+Monaco,48
+Nice,49
+Rennes,50
+LOSC Lille,51
+Olympique Lyonnais,52
+Montpellier,53
+Stade de Reims,54
+Brest,55
+Nantes,56
+Lorient,57
+Strasbourg,58
+Toulouse,59
+Metz,60
+Le Havre,61
+Clermont,62
+Espanyol,63
+Real Valladolid,64
+Real Zaragoza,65
+Sporting Gijón,66
+SD Eibar,67
+Levante,68
+Leganés,69
+Real Oviedo,70
+Burgos,71
+Elche,72
+Tenerife,73
+Albacete,74
+Huesca,75
+Racing Santander,76
+Racing Ferrol,77
+Eldense,78
+FC Cartagena,79
+Villarreal II,80
+FC Andorra,81
+Alcorcón,82
+Mirandés,83
+Amorebieta,84
+PSV,85
+Feyenoord,86
+Ajax,87
+FC Twente,88
+AZ Alkmaar,89
+FC Utrecht,90
+SC Heerenveen,91
+NEC,92
+Sparta Rotterdam,93
+Fortuna Sittard,94
+Go Ahead Eagles,95
+Heracles Almelo,96
+Excelsior,97
+PEC Zwolle,98
+Vitesse,99
+RKC Waalwijk,100
+Almere City,101
+FC Volendam,102
+Inter,103
+Milan,104
+Napoli,105
+Juventus,106
+Lazio,107
+Roma,108
+Atalanta,109
+Fiorentina,110
+Torino,111
+Monza,112
+Sassuolo,113
+Bologna,114
+Salernitana,115
+Udinese,116
+Empoli,117
+Genoa,118
+Lecce,119
+Cagliari,120
+Hellas Verona,121
+Frosinone,122
+FC Bayern München,123
+Borussia Dortmund,124
+Bayer 04 Leverkusen,125
+RB Leipzig,126
+Eintracht Frankfurt,127
+VfL Wolfsburg,128
+SC Freiburg,129
+TSG Hoffenheim,130
+FC Union Berlin,131
+Borussia Mönchengladbach,132
+FSV Mainz 05,133
+VfB Stuttgart,134
+Werder Bremen,135
+FC Augsburg,136
+VfL Bochum 1848,137
+FC Köln,138
+Heidenheim,139
+Darmstadt 98,140
+Anderlecht,141
+Club Brugge,142
+Antwerp,143
+Genk,144
+Gent,145
+Union Saint-Gilloise,146
+Standard Liège,147
+Sporting Charleroi,148
+Mechelen,149
+Cercle Brugge,150
+RWDM,151
+OH Leuven,152
+Westerlo,153
+AS Eupen,154
+Sint-Truiden,155
+Kortrijk,156
+Hertha BSC,157
+Hamburger SV,158
+Hannover 96,159
+St. Pauli,160
+Fortuna Düsseldorf,161
+Schalke 04,162
+SpVgg Greuther Fürth,163
+Karlsruher SC,164
+Magdeburg,165
+Paderborn,166
+Holstein Kiel,167
+Hansa Rostock,168
+Nürnberg,169
+Kaiserslautern,170
+Elversberg,171
+Osnabrück,172
+Eintracht Braunschweig,173
+Wehen Wiesbaden,174
+Real Madrid,175
+FC Barcelona,176
+Atlético Madrid,177
+Real Sociedad,178
+Athletic Club,179
+Sevilla,180
+Villarreal,181
+Girona,182
+Real Betis,183
+Mallorca,184
+Osasuna,185
+Rayo Vallecano,186
+Celta de Vigo,187
+Getafe,188
+Cádiz,189
+Almería,190
+Las Palmas,191
+Valencia,192
+Granada,193
+Deportivo Alavés,194
+Manchester City,195
+Arsenal,196
+Liverpool,197
+Aston Villa,198
+Tottenham Hotspur,199
+Manchester United,200
+Newcastle United,201
+West Ham United,202
+Chelsea,203
+Nottingham Forest,204
+Brentford,205
+Wolverhampton Wanderers,206
+Fulham,207
+Brighton & Hove Albion,208
+Crystal Palace,209
+AFC Bournemouth,210
+Everton,211
+Burnley,212
+Sheffield United,213
+Luton Town,214
+Cremonese,215
+Como,216
+Palermo,217
+Parma,218
+Venezia,219
+Sampdoria,220
+Spezia,221
+Pisa,222
+Bari 1908,223
+Ascoli,224
+Cosenza,225
+Südtirol,226
+Brescia,227
+Catanzaro,228
+Reggiana,229
+Modena,230
+Ternana,231
+Cittadella,232
+Lecco,233
+FeralpiSalò,234
+Benfica,235
+Sporting CP,236
+Porto,237
+Sporting Braga,238
+Vitória SC,239
+Famalicão,240
+Rio Ave,241
+Arouca,242
+Estoril,243
+Chaves,244
+Portimonense,245
+Moreirense,246
+Boavista,247
+Farense,248
+Gil Vicente,249
+Estrela Amadora,250
+Casa Pia,251
+Vizela,252
+Galatasaray,253
+Fenerbahçe,254
+Beşiktaş,255
+Trabzonspor,256
+İstanbul Başakşehir,257
+Fatih Karagümrük,258
+Adana Demirspor,259
+Ankaragücü,260
+Samsunspor,261
+Kasımpaşa,262
+Alanyaspor,263
+Gaziantep F.K.,264
+Konyaspor,265
+Pendikspor,266
+Antalyaspor,267
+Rizespor,268
+Sivasspor,269
+Hatayspor,270
+Kayserispor,271
+İstanbulspor,272
